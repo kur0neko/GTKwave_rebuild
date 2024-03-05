@@ -1,0 +1,6 @@
+subdir('libfst')
+subdir('libghw')
+subdir('libjrb')
+subdir('liblxt')
+subdir('libvzt')
+subdir('libgtkwave')
